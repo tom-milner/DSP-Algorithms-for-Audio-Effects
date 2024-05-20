@@ -1,3 +1,5 @@
+# DSP Algorithms for Audio Effects - Public Folder
+
 Hello, and welcome to the Public Folder for "DSP Algorithms for Musical Special Effects".
 This directory contains all the work produced by the project.
 
